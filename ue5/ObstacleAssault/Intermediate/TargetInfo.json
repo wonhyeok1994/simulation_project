@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ObstacleAssault",
-			"Path": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\obstacle_assult\\ue5\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+			"Path": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\simulation_project\\ue5\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ObstacleAssaultEditor",
-			"Path": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\obstacle_assult\\ue5\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
+			"Path": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\simulation_project\\ue5\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

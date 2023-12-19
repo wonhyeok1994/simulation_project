@@ -3,12 +3,12 @@
         {
             "name": "ObstacleAssaultEditor Editor Win64 Development (ObstacleAssault)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\obstacle_assult\\ue5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault.json"
+            "compileCommands": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\simulation_project\\ue5\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault.json"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\obstacle_assult\\ue5\\ObstacleAssault\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\Users\\wonhy\\Documents\\Unreal Projects\\simulation_project\\ue5\\ObstacleAssault\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4
